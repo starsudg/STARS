@@ -1,0 +1,35 @@
+No.,Group,Accession,Name,,Size
+1,4,AY283794 ,"SARS coronavirus isolate SIN2500, complete genome/Group 4 ",SIN2500,29 711 
+2,4,AY283797 ,"SARS coronavirus isolate SIN2748, complete genome/Group 4 ",SIN2748,29 706 
+3,4,AY283798 ,"SARS coronavirus isolate SIN2774, complete genome/Group 4 ",SIN2774,29 711 
+4,4,AY283796 ,"SARS coronavirus isolate SIN2679, complete genome/Group 4 ",SIN2679,29 711 
+5,4,AY291451 ,"SARS coronavirus TW1, complete genome/Group 4 ",TW1,29 729 
+6,4,AY283795 ,"SARS coronavirus isolate SIN2677, complete genome/Group 4 ",SIN2677,29 705 
+7,4,AY278741 ,"SARS coronavirus Urbani, complete genome/Group 4 ",Urbani,29 727 
+8,4,AY278488 ,"SARS coronavirus BJ01, complete genome/Group 4 ",BJ01,29 725 
+9,4,AY278491 ,"SARS coronavirus HKU-39849, complete genome/Group 4 ",HKU-39849,29 742 
+10,4,AY278554 ,"SARS coronavirus CUHK-W1, complete genome/Group 4 ",CUHK-W1,29 736 
+11,4,AY282752 ,"SARS coronavirus CUHK-Su10, complete genome/Group 4 ",CUHK-Su10,29 736 
+12,4,NC_004718 ,"SARS coronavirus TOR2, complete genome/Group 4 ",TOR2,29 751 
+13,4,AY297028 ,"SARS coronavirus ZJ01, complete genome/Group 4 ",ZJ01,29 715 
+14,4,AY572034 ,"SARS coronavirus civet007, complete genome/Group 4 ",Civet007,29 540 
+15,4,AY572035 ,"SARS coronavirus civet010, complete genome/Group 4 ",Civet010,29 518 
+16,1,AF304460 ,"Human coronavirus 229E, complete genome/Group 1 ",HCoV-229E,27 317 
+17,1,AF353511 ,"Porcine epidemic diarrhea virus strain, complete genome/Group 1 ",PEDV,28 033 
+18,3,NC_001451 ,"Avian infectious bronchitis virus, complete genome/Group 3 ",IBV,27 608 
+19,3,EU095850 ,"Turkey coronavirus isolate MG10, complete genome/Group 3 ",TCoV,27 657 
+20,2,AF208067 ,"Murine hepatitis virus strain ML-10, complete genome/Group 2 ",MHVM,31 233 
+21,2,NC_001846 ,"Murine hepatitis virus, complete genome/Group 2 ",MHV,31 357 
+22,2,AF201929 ,"Murine hepatitis virus strain 2, complete genome/Group 2 ",MHV2,31 276 
+23,2,AF208066 ,"Murine hepatitis virus strain Penn 97-1, complete genome/Group 2 ",MHVP,31 112 
+24,2,AY391777 ,"Human coronavirus OC43, complete genome/Group 2 ",HCoV-OC43,30 738 
+25,2,U00735 ,"Bovine coronavirus strain Mebus, complete genome/Group 2 ",BCoVM,31 032 
+26,2,AF220295 ,"Bovine coronavirus strain Quebec, complete genome/Group 2 ",BCoVQ,31 100 
+27,2,AF391542 ,"Bovine coronavirus isolate BCoV-LUN, complete genome/Group 2 ",BCoVL,31 028 
+28,2,NC_003045 ,"Bovine coronavirus, complete genome/Group 2 ",BCoV,31 028 
+29,1,NC_005831 ,"Human coronavirus NL63, complete genome/Group 1 ",HCoV-NL63,27 553 
+30,5,NC_006577 ,"Human coronavirus HKU1, complete genome/Group 5 ",HCoV-HKU1,29 926 
+31,6,NC_001564 ,"Cell fusing agent virus, complete genome/Flaviviridae (outgroup) ",out CellF,10 695 
+32,6,NC_001512 ,"O'nyong-nyong virus, complete genome/Togaviridae (outgroup) ",out NyongT,11 835 
+33,6,NC_001544 ,"Ross River virus, complete genome/Togaviridae (outgroup) ",out RossT,11 657 
+34,6,NC_004102 ,"Hepatitis C virus, complete genome/Flaviviridae (outgroup) ",out HepaCF,9 646 
