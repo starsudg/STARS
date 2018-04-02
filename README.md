@@ -12,12 +12,4 @@ Citing
 	Mendizabal-Ruiz G., Román-Godínez I., Torres-Ramos S., Salido-Ruiz R.A., Vélez-Perez H., and Morales J.A. (Year Pending). Genomic Signal Processing for DNA Sequence Clustering. (Journal information Pending).
     BibTeX entry:
 
-	@article{mendizabal2018genomic,
-  title={Genomic signal processing for DNA sequence clustering},
-  author={Mendizabal-Ruiz, Gerardo and Rom{\'a}n-God{\'\i}nez, Israel and Torres-Ramos, Sulema and Salido-Ruiz, Ricardo A and V{\'e}lez-P{\'e}rez, Hugo and Morales, J Alejandro},
-  journal={PeerJ},
-  volume={6},
-  pages={e4264},
-  year={2018},
-  publisher={PeerJ Inc.}
-}
+	@article{mendizabal2018genomic, title={Genomic signal processing for DNA sequence clustering}, author={Mendizabal-Ruiz, Gerardo and Rom{\'a}n-God{\'\i}nez, Israel and Torres-Ramos, Sulema and Salido-Ruiz, Ricardo A and V{\'e}lez-P{\'e}rez, Hugo and Morales, J Alejandro}, journal={PeerJ}, volume={6}, pages={e4264}, year={2018}, publisher={PeerJ Inc.}}
